@@ -1,0 +1,10 @@
+# Terraform state and configuration
+.terraform/
+.terraform.lock.hcl
+
+# System files
+*.swp
+*.bak
+*.tmp
+*.log
+
